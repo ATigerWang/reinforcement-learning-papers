@@ -1,5 +1,5 @@
 # Reinforcement Learning Papers  
-A list of recent papers regarding reinforcement learning. I am more interesting in the research that applys reinforcement learning to game AI, so most papers listed here are focus on running experiments on games.
+A list of recent papers regarding reinforcement learning. I am more interested in the research that applys reinforcement learning to game AI, so most papers listed here are focus on running experiments on games.
 Some of them that I have read are marked and I will arrange some notes soon.
 
 # Review  
